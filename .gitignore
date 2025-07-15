@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files and weights
+models/*.h5
+models/*.keras
+models/*.pb
+models/*.ckpt
+models/*.tflite
+
+# Scikit-learn + joblib serialized objects
+*.pkl
+*.joblib
+
+# Numpy arrays
+*.npy
+*.npz
+
+# Data (raw/processed)
+data/raw/
+data/processed/*_X.npy
+data/processed/*_y.npy
+data/processed/*_scaler.pkl
+
+# TensorFlow logs and artifacts
+logs/
+*.log
+events.out.tfevents.*
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/secrets.toml
+**/__pycache__/
+**/.pytest_cache/
