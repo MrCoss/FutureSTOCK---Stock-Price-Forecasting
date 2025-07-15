@@ -15,6 +15,9 @@ Built with scalability and professional-grade modularization in mind, the projec
 - Stock-specific LSTM model training and evaluation
 - Future prediction for next-day closing prices
 - Fully interactive **Streamlit web app** with plots, metrics, and real-time forecasting
+<img width="5818" height="515" alt="Blank diagram" src="https://github.com/user-attachments/assets/30ebaf99-a89a-409f-868a-bf5689c428ff" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/8e59526c-71cb-45ba-a200-14b7950086a9" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/127cd2f3-5c0e-419b-b0dd-e83cae2f4bd8" />
 
 ---
 
